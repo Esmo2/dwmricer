@@ -8,7 +8,7 @@ This script is meant for those who are intimidated by installing DWM by themselv
 
 Step 1. Download the script
 
-	git clone $URL
+	git clone https://github.com/esmo2/dwmricer.git
 Step 2. CD into that director
 	cd dwmricer
 Step 3. Use Vim (or another editor) to change the code for your particular distro. This just needs to be done at the top. If you're using Arch, you need not change anything. If you're using Ubuntu, you need to comment out the line that starts sudo pacman, and delete the # sign in front of the line that starts sudo apt install. 
